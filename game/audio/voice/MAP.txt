@@ -1,0 +1,109 @@
+Brothers by Rivalry — Part 1 — voice line map
+Voices: Aarav = avocado_v2:Twenty (Bold Flag, heroic/bold youthful male) | Kabir = avocado_v2:miles (Satiny Moon, soothing deep young male) | Meera = avocado_v2:Vanessa (Cheerful Sunflower, friendly bright young female) | Narration = avocado_v2:MAI_03 (Helio, gentle reassuring male)
+Order is script order in game/script.rpy, excluding menu prompts and player choice labels, including all branch and conditional parting variants. Spoken text strips {b}/{/b} tags from the script text shown.
+Excluded (not spoken lines): 5 menu prompts — 'Whose story do you follow first?', 'The fight, round one. How does it go?', 'The next morning at the café, what happens?', 'The festival mission. What do they take on first?', 'On the bridge, what do they admit?' — and all choice labels.
+
+line001 | Narration | It starts the way most good stories start — not with a plan, | line001.mp3 | 7.92s | mean -28.8 dB, max -7.6 dB
+line002 | Narration | The café is called The Third Seat. It has three tables by th | line002.mp3 | 8.11s | mean -28.2 dB, max -7.7 dB
+line003 | Narration | Meera runs those nights. She is twenty, she makes terrible j | line003.mp3 | 8.52s | mean -28.6 dB, max -9.4 dB
+line004 | Meera | Welcome in. If you're here to sing, the list is on the count | line004.mp3 | 8.35s | mean -33.9 dB, max -12.6 dB
+line005 | Narration | Two boys walk in that summer. Not together. Not yet. And nei | line005.mp3 | 5.76s | mean -27.8 dB, max -9.9 dB
+line006 | Aarav | Okay, okay — I know, I know. I'm late. But I brought the goo | line006.mp3 | 8.33s | mean -28.7 dB, max -9.6 dB
+line007 | Narration | Aarav does not enter rooms. He arrives in them. Loud laugh,  | line007.mp3 | 8.76s | mean -29.3 dB, max -6.9 dB
+line008 | Aarav | Meera! One terrible coffee, please. And don't pretend you di | line008.mp3 | 5.59s | mean -27.1 dB, max -7.3 dB
+line009 | Meera | I didn't save it. It saved itself. It knew you'd be loud eno | line009.mp3 | 5.57s | mean -27.3 dB, max -8.9 dB
+line010 | Aarav | That's fair. That's completely fair. I am loud. But listen — | line010.mp3 | 9.77s | mean -30.3 dB, max -4.8 dB
+line011 | Narration | He plays, and he is not as careless as he looks. Under the j | line011.mp3 | 9.07s | mean -29.1 dB, max -8.0 dB
+line012 | Meera | Aarav. That was... actually good. Don't ruin it by making a  | line012.mp3 | 8.45s | mean -35.3 dB, max -16.2 dB
+line013 | Aarav | Too late. I already thought of one. I'm just being polite an | line013.mp3 | 4.73s | mean -25.4 dB, max -5.5 dB
+line014 | Narration | Kabir does not enter rooms either. He slips into them, the w | line014.mp3 | 9.17s | mean -30.3 dB, max -10.1 dB
+line015 | Kabir | One tea. No sugar. And... is the list still open? | line015.mp3 | 4.63s | mean -29.3 dB, max -9.0 dB
+line016 | Meera | It is. Corner table, if you want it. You look like a corner- | line016.mp3 | 4.75s | mean -32.7 dB, max -11.7 dB
+line017 | Kabir | I am. I brought something. It's not finished. It probably ne | line017.mp3 | 6.53s | mean -28.8 dB, max -7.0 dB
+line018 | Narration | He does not perform. He just plays, eyes down, as if the son | line018.mp3 | 7.27s | mean -29.4 dB, max -8.2 dB
+line019 | Narration | It is about a town he is afraid to leave, and a person he is | line019.mp3 | 4.75s | mean -30.3 dB, max -8.5 dB
+line020 | Meera | Kabir. Don't finish it yet. Some songs need to stay unfinish | line020.mp3 | 6.96s | mean -28.5 dB, max -10.2 dB
+line021 | Kabir | Then I'll come back. That's... that's the plan, actually. | line021.mp3 | 2.88s | mean -35.9 dB, max -13.3 dB
+line022 | Narration | A week later, Kabir arrives — and the corner table is not em | line022.mp3 | 4.99s | mean -28.7 dB, max -9.6 dB
+line023 | Kabir | Oh. Someone is already... never mind. I'll take the other on | line023.mp3 | 4.03s | mean -25.7 dB, max -5.6 dB
+line024 | Narration | He listens to Aarav sing, and he hates how good it is. Not b | line024.mp3 | 8.88s | mean -28.0 dB, max -6.3 dB
+line025 | Narration | A week later, Aarav arrives — and the corner table is not em | line025.mp3 | 4.92s | mean -28.2 dB, max -8.4 dB
+line026 | Aarav | Whoa. Okay. New guy. Playing my table's song, in my table's  | line026.mp3 | 6.96s | mean -30.4 dB, max -11.6 dB
+line027 | Narration | He listens to Kabir play, and he hates how good it is. Not b | line027.mp3 | 8.88s | mean -30.1 dB, max -8.0 dB
+line028 | Meera | Oh, good. You're both here. Aarav, this is Kabir. Kabir, thi | line028.mp3 | 12.07s | mean -25.3 dB, max -5.9 dB
+line029 | Narration | She stops. She sees it. Two boys, one look, one sudden, terr | line029.mp3 | 6.72s | mean -29.8 dB, max -11.3 dB
+line030 | Aarav | Wait. You like her too? | line030.mp3 | 2.47s | mean -28.8 dB, max -9.1 dB
+line031 | Kabir | You... you like her too. | line031.mp3 | 2.52s | mean -23.3 dB, max -7.2 dB
+line032 | Meera | Boys. Boys. I am standing right here. I am not a trophy, I a | line032.mp3 | 11.83s | mean -32.5 dB, max -14.9 dB
+line033 | Aarav | No, no, this is fine. This is perfect. We can settle this li | line033.mp3 | 7.44s | mean -25.3 dB, max -4.5 dB
+line034 | Kabir | No competition. That's not how this works. That's not how sh | line034.mp3 | 4.03s | mean -29.6 dB, max -6.9 dB
+line035 | Narration | And that is where the fight starts. Not with fists. With stu | line035.mp3 | 10.13s | mean -31.7 dB, max -8.9 dB
+line036 | Aarav | Fine! One month. Festival night. Whoever she chooses, the ot | line036.mp3 | 11.16s | mean -31.7 dB, max -8.3 dB (gain +8dB applied — original render was unusually quiet)
+line037 | Kabir | I didn't agree to that. I never agree to things shouted at m | line037.mp3 | 4.15s | mean -30.9 dB, max -7.3 dB
+line038 | Kabir | I'm not competing for a person. If you want to turn this int | line038.mp3 | 8.40s | mean -27.5 dB, max -4.4 dB
+line039 | Aarav | That's the most annoying answer possible. You know that, rig | line039.mp3 | 6.00s | mean -22.1 dB, max -3.7 dB
+line040 | Meera | Stop. Both of you. If you want my attention, earn it by bein | line040.mp3 | 14.88s | mean -28.2 dB, max -4.9 dB
+line041 | Narration | They sit down. Separate tables. And they look at each other  | line041.mp3 | 4.68s | mean -30.0 dB, max -11.2 dB
+line042 | Narration | The rain starts that night, and it does not stop for days. T | line042.mp3 | 6.96s | mean -29.8 dB, max -8.4 dB
+line043 | Narration | Aarav leaves five voice notes. Kabir leaves none, which some | line043.mp3 | 5.59s | mean -29.0 dB, max -3.8 dB
+line044 | Aarav | He thinks silence makes him deep. It doesn't. It makes him u | line044.mp3 | 7.49s | mean -33.2 dB, max -8.6 dB
+line045 | Kabir | He thinks volume makes him honest. It doesn't. It makes him  | line045.mp3 | 6.24s | mean -24.8 dB, max -4.6 dB
+line046 | Aarav | Watch this. I'm going to sing the song I wrote about her, ri | line046.mp3 | 7.56s | mean -33.0 dB, max -9.4 dB
+line047 | Narration | He does. Kabir sits there. He feels things. He does not leav | line047.mp3 | 8.95s | mean -28.4 dB, max -9.3 dB
+line048 | Narration | While Aarav is rehearsing his big moment, Kabir is under a t | line048.mp3 | 7.32s | mean -26.8 dB, max -4.6 dB
+line049 | Aarav | Wait. You fixed that? I've been complaining about that speak | line049.mp3 | 5.21s | mean -26.9 dB, max -6.2 dB
+line050 | Kabir | Complaining is not fixing. Fixing is fixing. | line050.mp3 | 3.89s | mean -25.3 dB, max -4.1 dB
+line051 | Aarav | Okay. That was... annoyingly good. I hate that I respect tha | line051.mp3 | 6.12s | mean -29.1 dB, max -7.1 dB
+line052 | Meera | One table left. You two can share it, or you can stand outsi | line052.mp3 | 11.21s | mean -28.0 dB, max -6.8 dB
+line053 | Narration | They share it. In silence. Then in sarcasm. Then, slowly, in | line053.mp3 | 12.07s | mean -29.9 dB, max -7.8 dB
+line054 | Narration | And then Meera gives them the problem that changes everythin | line054.mp3 | 3.17s | mean -26.6 dB, max -7.5 dB
+line055 | Meera | I need to tell you both something, and I need you to not mak | line055.mp3 | 15.41s | mean -30.8 dB, max -9.5 dB
+line056 | Aarav | Wait. Closes? Like... gone? | line056.mp3 | 4.56s | mean -28.3 dB, max -6.5 dB (gain +8dB applied — original render was unusually quiet)
+line057 | Kabir | When? How long do we have? | line057.mp3 | 2.81s | mean -27.2 dB, max -6.8 dB
+line058 | Meera | Three weeks. I need posters, a stage, performers, and money  | line058.mp3 | 12.48s | mean -27.2 dB, max -8.7 dB
+line059 | Narration | Two rivals. One impossible job. No way out that doesn't invo | line059.mp3 | 4.99s | mean -28.6 dB, max -7.9 dB
+line060 | Aarav | Posters! Every wall, every pole, every café window in town.  | line060.mp3 | 11.64s | mean -25.3 dB, max -4.9 dB
+line061 | Kabir | I'll draw them. You shout about them. That's... actually a g | line061.mp3 | 6.65s | mean -28.4 dB, max -7.6 dB
+line062 | Kabir | The stage is falling apart. If we rebuild it ourselves, we d | line062.mp3 | 7.99s | mean -26.5 dB, max -6.9 dB
+line063 | Aarav | I love a plan that might collapse. Metaphorically. Not liter | line063.mp3 | 8.35s | mean -32.3 dB, max -8.6 dB
+line064 | Narration | They build it. It holds. Barely. Proudly. | line064.mp3 | 4.01s | mean -29.7 dB, max -4.9 dB
+line065 | Meera | Door to door. Both of you. No arguing in front of donors. Sm | line065.mp3 | 12.29s | mean -26.6 dB, max -7.1 dB
+line066 | Narration | They argue in front of exactly one donor. Then they apologis | line066.mp3 | 8.76s | mean -28.3 dB, max -9.0 dB
+line067 | Narration | Late one night, after the posters are up and the stage is st | line067.mp3 | 8.35s | mean -27.8 dB, max -4.1 dB
+line068 | Aarav | Can I ask you something, and can you not make it weird? | line068.mp3 | 4.44s | mean -28.4 dB, max -10.7 dB
+line069 | Kabir | I can try. No promises on the weird part. | line069.mp3 | 2.76s | mean -27.5 dB, max -8.7 dB
+line070 | Aarav | Why her? Not — why do you like her. Why do you like her the  | line070.mp3 | 6.00s | mean -35.1 dB, max -17.7 dB
+line071 | Kabir | Because she listens like songs matter. And because she never | line071.mp3 | 7.32s | mean -27.9 dB, max -5.3 dB
+line072 | Aarav | Because she laughed at my worst joke and then told me it was | line072.mp3 | 9.41s | mean -34.1 dB, max -12.9 dB
+line073 | Narration | Silence. Not the fighting kind. The good kind. | line073.mp3 | 3.89s | mean -32.6 dB, max -5.3 dB
+line074 | Aarav | I'm scared, okay? If she chooses you, I lose her. If she cho | line074.mp3 | 12.77s | mean -22.7 dB, max -6.6 dB
+line075 | Kabir | You won't lose me. That's not how this works anymore. I thin | line075.mp3 | 4.63s | mean -24.8 dB, max -6.1 dB
+line076 | Kabir | I was jealous of you. Not of your songs. Of how easy it is f | line076.mp3 | 11.04s | mean -25.8 dB, max -4.7 dB
+line077 | Aarav | And I was jealous of you. Because you don't need applause to | line077.mp3 | 9.77s | mean -32.2 dB, max -11.9 dB
+line078 | Narration | They say nothing for a long time. The river says enough for  | line078.mp3 | 10.75s | mean -28.7 dB, max -7.5 dB
+line079 | Narration | Festival night. The hall is full. The stage holds. The poste | line079.mp3 | 9.91s | mean -30.7 dB, max -9.7 dB
+line080 | Meera | You did this. Both of you. Together. I don't know how to tha | line080.mp3 | 12.41s | mean -26.1 dB, max -8.5 dB
+line081 | Aarav | We did it. Us. The loud one and the quiet one. The rivalry a | line081.mp3 | 6.91s | mean -26.2 dB, max -6.6 dB
+line082 | Kabir | Brothers. I think that's the word. Don't make it weird. It's | line082.mp3 | 4.99s | mean -29.5 dB, max -9.4 dB
+line083 | Aarav | Brothers by rivalry. That's us. That's actually us. | line083.mp3 | 4.51s | mean -25.7 dB, max -3.8 dB
+line084 | Narration | They perform together that night. Not a competition. A duet. | line084.mp3 | 11.81s | mean -30.3 dB, max -9.2 dB
+line085 | Narration | Meera watches from the side of the stage, and for the first  | line085.mp3 | 7.51s | mean -30.1 dB, max -7.9 dB
+line086 | Narration | And that is when everything should get simple. It does not. | line086.mp3 | 3.55s | mean -31.9 dB, max -12.5 dB
+line087 | Narration | Morning. The festival is over. The town is quiet in that cle | line087.mp3 | 5.57s | mean -27.2 dB, max -7.9 dB
+line088 | Narration | At the station, there are two platforms. Two trains. Two dif | line088.mp3 | 4.61s | mean -29.2 dB, max -6.9 dB
+line089 | Narration | Aarav is on one platform, bag over his shoulder, ticket in h | line089.mp3 | 8.09s | mean -27.1 dB, max -3.2 dB
+line090 | Narration | They do not explain. They do not argue. They do not even loo | line090.mp3 | 5.04s | mean -28.8 dB, max -9.7 dB
+line091 | Narration | Aarav looks across the tracks, and Kabir looks back, and for | line091.mp3 | 10.49s | mean -28.7 dB, max -5.8 dB
+line092 | Narration | No wave. No shout. Just that smile. And then they turn away, | line092.mp3 | 6.55s | mean -30.5 dB, max -12.4 dB
+line093 | Narration | They look at each other across the tracks, and the old rival | line093.mp3 | 7.73s | mean -30.6 dB, max -7.9 dB
+line094 | Narration | Then they turn away, each toward his own train, without a wo | line094.mp3 | 4.56s | mean -30.7 dB, max -11.7 dB
+line095 | Narration | They do not look at each other at all. That, somehow, is the | line095.mp3 | 4.85s | mean -30.0 dB, max -7.4 dB
+line096 | Narration | Meera stands between the platforms, watching both trains, wa | line096.mp3 | 11.16s | mean -29.0 dB, max -9.6 dB
+line097 | Meera | Wait — both of you? Where are you going? Why — why are you g | line097.mp3 | 7.01s | mean -28.7 dB, max -9.7 dB
+line098 | Narration | No answer. The trains move. The station empties. The summer  | line098.mp3 | 6.05s | mean -28.6 dB, max -7.7 dB
+line099 | Narration | Why did they go two different, separate paths? No one knows. | line099.mp3 | 3.89s | mean -29.0 dB, max -8.9 dB
+line100 | Narration | End of Part 1. | line100.mp3 | 1.39s | mean -28.6 dB, max -7.6 dB
+line101 | Narration | Brothers by Rivalry — Part 2 is coming. | line101.mp3 | 3.24s | mean -28.2 dB, max -8.3 dB
+
+Total voice lines: 101/101, total duration 725.7s
+Missing lines: none

@@ -1,0 +1,13 @@
+# Brothers by Rivalry — never commit keys or build outputs.
+*.keystore
+*.jks
+*.p12
+dist/
+game/cache/
+game/saves/
+game/*.rpyc
+*.log
+log.txt
+android-build.log
+store-kit/
+images-new-raw/
